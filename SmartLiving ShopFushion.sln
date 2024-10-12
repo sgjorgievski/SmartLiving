@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLiving ShopWave", "SmartLiving ShopWave\SmartLiving ShopWave.csproj", "{8B1CF7C8-34DE-4C4A-92F3-CE99F5E5CB31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartLivingShopWave.Tests", "SmartLivingShopWave.Tests\SmartLivingShopWave.Tests.csproj", "{6922289E-4ABE-4FA3-9778-FB56A7F955FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B1CF7C8-34DE-4C4A-92F3-CE99F5E5CB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1CF7C8-34DE-4C4A-92F3-CE99F5E5CB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1CF7C8-34DE-4C4A-92F3-CE99F5E5CB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1CF7C8-34DE-4C4A-92F3-CE99F5E5CB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6922289E-4ABE-4FA3-9778-FB56A7F955FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6922289E-4ABE-4FA3-9778-FB56A7F955FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6922289E-4ABE-4FA3-9778-FB56A7F955FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6922289E-4ABE-4FA3-9778-FB56A7F955FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {964FC132-7562-4394-972A-BAF0E86773E6}
+	EndGlobalSection
+EndGlobal
